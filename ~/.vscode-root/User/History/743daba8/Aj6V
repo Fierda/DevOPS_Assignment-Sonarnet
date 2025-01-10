@@ -1,5 +1,0 @@
-/plugins
-**/temp/
-*.gpg
-*.properties
-*.conf

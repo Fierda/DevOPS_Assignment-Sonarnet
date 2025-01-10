@@ -1,0 +1,8 @@
+/plugins
+**/temp/
+*.gpg
+*.properties
+*.conf
+*.gpg~
+*.gitignore
+*.env

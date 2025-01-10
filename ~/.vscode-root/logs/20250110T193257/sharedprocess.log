@@ -1,0 +1,9 @@
+2025-01-10 19:33:01.116 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-01-10 19:33:01.418 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-01-10 19:33:01.643 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

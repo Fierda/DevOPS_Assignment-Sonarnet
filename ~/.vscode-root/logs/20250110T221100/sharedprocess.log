@@ -1,0 +1,5 @@
+2025-01-10 22:37:05.147 [error] [network] #20: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-01-10 23:08:09.329 [error] [network] #36: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-01-10 23:18:54.948 [error] [network] #45: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-01-10 23:19:00.339 [error] [network] #46: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-01-10 23:21:17.291 [error] [network] #47: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
